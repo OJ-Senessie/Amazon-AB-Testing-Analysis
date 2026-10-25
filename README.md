@@ -6,6 +6,19 @@ An end-to-end A/B testing portfolio project evaluating whether a simplified e-co
 The project combines statistical analysis, commercial scenario modelling and Power BI visualisation to translate experimental results into a business recommendation.
 
 **Note:** This is a synthetic, Amazon-inspired case study. It does not use actual Amazon customer data or represent Amazon's real performance.
+## Dashboard Preview
+
+### 1. Experiment Overview
+![Experiment Overview](screenshots/experiment-overview.png)
+
+### 2. Experiment Outcomes
+![Experiment Outcomes](screenshots/experiment-outcomes.png)
+
+### 3. Commercial Impact
+![Commercial Impact](screenshots/commercial-impact.png)
+
+### 4. Decision & Limitations
+![Decision and Limitations](screenshots/decision-limitations.png)
 
 ## Business Question
 Does a simplified checkout experience improve conversion compared with the existing checkout?
