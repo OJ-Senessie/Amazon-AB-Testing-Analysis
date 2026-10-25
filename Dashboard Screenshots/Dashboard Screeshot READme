@@ -1,0 +1,18 @@
+# Power BI Dashboard Screenshots
+
+This folder contains screenshots of the four-page Power BI dashboard developed for the synthetic A/B testing checkout experiment.
+
+## 1. Experiment Overview
+Introduces the business problem, experiment hypothesis, test design and control versus treatment checkout experience.
+
+## 2. Experiment Outcomes
+Compares conversion rates between the control and treatment groups and presents the statistical evidence used to interpret the results.
+
+## 3. Commercial Impact
+Explores revenue per session and illustrative monthly gross revenue scenarios under different conversion-rate assumptions.
+
+## 4. Decision & Limitations
+Summarises the recommended next steps, sample-size considerations, business success criteria and limitations of the experiment.
+
+## Important Note
+This is an Amazon-inspired portfolio case study using synthetic data. It does not contain actual Amazon customer data or represent Amazon's real business performance.
