@@ -7,6 +7,9 @@ The project combines statistical analysis, commercial scenario modelling and Pow
 
 > **Data note:** This is a synthetic, Amazon-inspired case study. It does not use actual Amazon customer data or represent Amazon's real performance.
 
+## Power BI Report
+[**Download the Power BI dashboard (.pbix)**](Amazon%20AB%20test%20dashboard.pbix) to open the interactive report in Power BI Desktop.
+
 ## Dashboard Preview
 
 ### 1. Experimental Overview
