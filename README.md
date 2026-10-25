@@ -10,22 +10,22 @@ The project combines statistical analysis, commercial scenario modelling and Pow
 ## Dashboard Preview
 
 ### 1. Experimental Overview
-![Experimental Overview](<Dashboard Screenshots/Experimental Overview.png>)
+![Experimental Overview](Dashboard%20Screenshots/Experimental%20Overview.png)
 
 Introduces the business problem, experiment hypothesis, test design and control versus treatment checkout experience.
 
 ### 2. Experimental Outcomes
-![Experimental Outcomes](<Dashboard Screenshots/Experimental Outcomes.png>)
+![Experimental Outcomes](Dashboard%20Screenshots/Experimental%20Outcomes.png)
 
 Compares control and treatment conversion rates and presents the statistical evidence used to interpret the results.
 
 ### 3. Commercial Impact
-![Commercial Impact](<Dashboard Screenshots/Commercial Impact.png>)
+![Commercial Impact](Dashboard%20Screenshots/Commercial%20Impact.png)
 
 Explores revenue per session and illustrative monthly gross revenue scenarios under different conversion-rate assumptions.
 
 ### 4. Decisions & Limitations
-![Decisions & Limitations](<Dashboard Screenshots/Decisions & Limitations.png>)
+![Decisions & Limitations](Dashboard%20Screenshots/Decisions%20%26%20Limitations.png)
 
 Summarises the recommendation, next steps, business success criteria and limitations of the experiment.
 
