@@ -5,20 +5,29 @@ An end-to-end A/B testing portfolio project evaluating whether a simplified e-co
 
 The project combines statistical analysis, commercial scenario modelling and Power BI visualisation to translate experimental results into a business recommendation.
 
-**Note:** This is a synthetic, Amazon-inspired case study. It does not use actual Amazon customer data or represent Amazon's real performance.
+> **Data note:** This is a synthetic, Amazon-inspired case study. It does not use actual Amazon customer data or represent Amazon's real performance.
+
 ## Dashboard Preview
 
-### 1. Experiment Overview
-![Experiment Overview](screenshots/experiment-overview.png)
+### 1. Experimental Overview
+![Experimental Overview](<Dashboard Screenshots/Experimental Overview.png>)
 
-### 2. Experiment Outcomes
-![Experiment Outcomes](screenshots/experiment-outcomes.png)
+Introduces the business problem, experiment hypothesis, test design and control versus treatment checkout experience.
+
+### 2. Experimental Outcomes
+![Experimental Outcomes](<Dashboard Screenshots/Experimental Outcomes.png>)
+
+Compares control and treatment conversion rates and presents the statistical evidence used to interpret the results.
 
 ### 3. Commercial Impact
-![Commercial Impact](screenshots/commercial-impact.png)
+![Commercial Impact](<Dashboard Screenshots/Commercial Impact.png>)
 
-### 4. Decision & Limitations
-![Decision and Limitations](screenshots/decision-limitations.png)
+Explores revenue per session and illustrative monthly gross revenue scenarios under different conversion-rate assumptions.
+
+### 4. Decisions & Limitations
+![Decisions & Limitations](<Dashboard Screenshots/Decisions & Limitations.png>)
+
+Summarises the recommendation, next steps, business success criteria and limitations of the experiment.
 
 ## Business Question
 Does a simplified checkout experience improve conversion compared with the existing checkout?
@@ -52,9 +61,9 @@ These scenarios are illustrative, not forecasts or guaranteed returns. They repr
 Increase the sample beyond 12,000 sessions and repeat the experiment using a predefined sample-size calculation and decision criteria. Assess statistical significance, commercial value and customer-experience metrics before deciding whether to roll out the change.
 
 ## Tools
-- Power BI — dashboard development and visualisation
-- Python — statistical analysis
-- SQL — data querying and analysis
+- **Power BI** — dashboard development and visualisation
+- **Python** — statistical analysis
+- **SQL** — data querying and analysis
 
 ## Limitations
 - The dataset is synthetic and cannot establish actual customer behaviour.
